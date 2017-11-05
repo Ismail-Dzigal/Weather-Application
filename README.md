@@ -6,6 +6,5 @@ The temperature is shown in Celsius, but with a click on a button it can be view
 
 HTML, CSS, Bootstrap 4 and jQuery used for coding.
 
-API used: *https://maps.googleapis.com/maps/api/geocode/
-
-          *https://fcc-weather-api.glitch.me/api/
+API used: 1. https://maps.googleapis.com/maps/api/geocode/
+          2. https://fcc-weather-api.glitch.me/api/
